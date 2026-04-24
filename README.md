@@ -1,6 +1,9 @@
 A high-performance toy store eCommerce frontend built with React (Vite), Tailwind CSS, and Framer Motion,focused on deliveringa visually rich, 
 responsive, and interactive user experience.
 
+🚀 Live Demo
+https://toyversefrontend.netlify.app/
+
 🎯
 This project demonstrates:
 - Component architecture & reusability
