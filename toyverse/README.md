@@ -165,18 +165,5 @@ image: '/src/assets/images/rocket-blaster.jpg'
 
 ---
 
-## 🎯 Portfolio Notes
 
-This project demonstrates:
-- Component architecture & reusability
-- State management with Context API
-- Responsive design patterns
-- Animation & UX polish
-- Form validation
-- localStorage persistence
-- Role-based routing (admin access)
-- Modern React patterns (hooks, functional components)
-
----
-
-Made with ❤️ for ToyVerse
+Made with ❤️ for ToyVerse by GOLAM RABBY
